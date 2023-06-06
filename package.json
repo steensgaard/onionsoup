@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "The purpose of this repo is it investigate in a distilled form the Onion Architecture aka \"Clean Architecture\", \"Hexagonal architecture\" and \"Ports and Adapters Architecture\". Focus is on how to work with dependency inversion in practice. Further how to scope tests when working within the Onion Architecture A summery of architecture the can be found @ [Thoughtworks](https://www.thoughtworks.com/insights/blog/architecture/demystify-software-architecture-patterns) as an introduction but further investigations are necessary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steensgaard/onionsoup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steensgaard/onionsoup/issues"
+  },
+  "homepage": "https://github.com/steensgaard/onionsoup#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
